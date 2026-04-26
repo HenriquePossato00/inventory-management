@@ -15,6 +15,9 @@
 .swiftpm/
 migrate_working_dir/
 
+#ide
+.vscode
+
 # IntelliJ related
 *.iml
 *.ipr
